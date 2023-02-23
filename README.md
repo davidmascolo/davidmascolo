@@ -80,10 +80,6 @@ I am interested in collaborations and new challenges, so contact me.
 
 <br/>  
 
-![Listening to on Spotify]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1189694552&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile))  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=davidmascolo&&style=flat-square)  
   
 
