@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I am a Data Science student and passionate about everything related to the world of data.
 
-I have a three-year degree in Statistics for Big Data and I am currently writing my master's thesis. I have a particular interest in the use of data in sports and in the health sector.
+Data Scientist with a particular interest in the use of data in sports and in the health sector.
 
 I am interested in collaborations and new challenges, so contact me.  
   
