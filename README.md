@@ -28,10 +28,10 @@ I am interested in collaborations and new challenges, so contact me.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Master's Thesis (work in progress).]()  
+- 🔭 I’m currently working on [Synthetic Data Generation for Clinical Trials]() in Roche.  
   
 
-- 🌱 I’m currently learning use of GIS and GeoIntelligence tools (visualization and analysis) in the Advisory field.  
+- 🌱 I’m currently learning use of ML and DL tools in the Generative AI field.  
   
 
 - ❓ Ask me about anything related to data science and related technologies  
