@@ -28,17 +28,10 @@ I am interested in collaborations and new challenges, so contact me.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Synthetic Data Generation for Clinical Trials]() in Roche.  
+- 🔭 I’m currently working as Data Scientist Researcher in Oncological field.  
   
-
-- 🌱 I’m currently learning use of ML and DL tools in the Generative AI field.  
-  
-
 - ❓ Ask me about anything related to data science and related technologies  
   
-
-- ⚡ Fun fact: One day I will start playing sports.  
-
 
 </td><td valign="top" width="50%">
 
