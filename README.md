@@ -28,7 +28,7 @@ I am interested in collaborations and new challenges, so contact me.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as Data Scientist Researcher in Oncological field.  
+- 🔭 I’m currently working as Data Scientist Researcher in oncology field.  
   
 - ❓ Ask me about anything related to data science and related technologies  
   
